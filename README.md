@@ -10,9 +10,9 @@
 
 ||my toolbox|
 |---|---|
-|**Java**|Java17, Maven, Gradle, Spring (Cloud, Boot, Batch, StateMachine, WebFlux), Hibernate.
-|**Web**|Thymeleaf, Angular.
-|**QA**|JUnit, Cucumber, Postman/Newman.
+|**Java**|Java17, Maven, Gradle, Spring (Cloud, Boot, WebFlux), Hibernate.
+|**Web**|Thymeleaf.
+|**QA**|JUnit, Postman/Newman.
 |**SQL**|PostgreSQL, MySQL, FlyWay, JPA, JDBC, R2DBC.
 |**NO-SQL**|Mongo, Redis, Elasticsearch.
 |**Virtualization**|Docker, Kubernetes, OpenShift, GCP.
@@ -30,6 +30,6 @@
 
 ## 📫 How to reach me
 
-[![LinkedIn: manerajona](https://img.shields.io/badge/yadsyah-LinkedIn-blue)](https://www.linkedin.com/in/dian-setiyadi-5a0996137)
+[![LinkedIn: yadsyah](https://img.shields.io/badge/yadsyah-LinkedIn-blue)](https://www.linkedin.com/in/dian-setiyadi-5a0996137)
 
 &nbsp;
