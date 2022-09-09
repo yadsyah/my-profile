@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Dian Setiyadi (aka Dian)
-- 👨‍💻 I work as Senior Java Developer.
+- 👨‍💻 I work as Senior Software Engineer
 - 💪 The backend is my thing.
 - 🌱 I’m currently learning Go, K8, gRPC and Kotlin!
 - 🌎 From 🇮🇩
